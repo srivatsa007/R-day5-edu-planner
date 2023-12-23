@@ -1,3 +1,8 @@
+# Edu Planner
+[hosted link](https://main--dapper-crepe-fff661.netlify.app/)
+____
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
